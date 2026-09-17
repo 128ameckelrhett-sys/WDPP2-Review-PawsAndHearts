@@ -1,6 +1,6 @@
 body{
     background-color: rgb(129, 28, 223);
-    max-height: 200%;
+    height: 100vh;
 }
 
 .card-img-top{
@@ -9,8 +9,16 @@ body{
     object-position: top;
 }
 
-.btn-success{
-    background-color: blueviolet;
+.btn-purple{
+    background-color: rgb(129, 28, 223);
+    color: white;
+    border-color: white;
+}
+
+.btn-white{
+    background-color: white;
+    color:  rgb(129, 28, 223);
+    border-color: white;
 }
 
 .color-white{

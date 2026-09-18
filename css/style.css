@@ -1,6 +1,10 @@
 body{
     background-color: rgb(129, 28, 223);
-    height: 100vh;
+    height: 200vh;
+}
+
+.bg-purple{
+    background-color: rgb(129, 28, 223);
 }
 
 .card-img-top{
